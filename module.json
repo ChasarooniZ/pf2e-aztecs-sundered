@@ -19,5 +19,7 @@
       }
    ],
    "esmodules": ["scripts/main.js"],
-   "styles": ["styles/module.css"]
+   "styles": ["styles/module.css"],
+   "manifest": "https://raw.githubusercontent.com/Tebesski/pf2e-aztecs-sundered/refs/heads/main/module.json",
+   "download": "https://github.com/Tebesski/pf2e-aztecs-sundered/releases/download/1.0.0/module.zip"
 }
